@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: [nome do responsável pelo projeto]
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de três serviços AWS na empresa Abstergo Industries, conduzido por Byanca Godoy Lisboa. O objetivo principal do projeto foi reduzir custos operacionais de forma imediata, por meio da adoção de ferramentas de análise, otimização e gerenciamento automatizado de recursos em nuvem.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
@@ -28,7 +28,14 @@ Etapa 3:
 
 
 ## Conclusão
-A implementação de ferramentas na empresa *[nome da empresa] tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação dos serviços AWS na Abstergo Industries trouxe redução significativa de custos, melhor visibilidade financeira e otimização automática dos recursos de computação e armazenamento. Espera-se que essas ferramentas continuem proporcionando:
+
+Maior previsibilidade orçamentária
+Otimização contínua da infraestrutura
+Redução de gastos não planejados
+Automação de processos e diminuição de intervenção manual
+
+Recomenda-se o uso contínuo das ferramentas adotadas e a avaliação periódica de novos serviços AWS que possam potencializar ainda mais a eficiência da empresa.
 
 ## Anexos
 https://calculator.aws/
